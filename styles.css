@@ -1,0 +1,56 @@
+h1 {
+    color: rgb(64, 30, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    sans-serif;
+    margin: 30px 30px 25px;
+    font-size: 80px;
+
+}
+
+h2 {
+    color: rgb(64, 30, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    text-align: left;
+    margin: 30px 30px 25px;
+    padding: 12px;
+    background-color: rgba(242, 176, 191, 0.467);
+}
+
+h3 {
+    color: rgb(64, 30, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    sans-serif;
+    font-size: 20px;
+    text-align: left;
+    margin: 25px 60px 25px;
+    padding: 1px;
+    
+}
+
+.small-pic { width:300px !important; 
+    margin: 20px 0 1px 30px;
+
+}
+
+.small-pic { width:300px !important; 
+    margin: 20px 0 1px 30px;
+
+}
+
+p {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, 
+    serif; 
+    font-size: 18px;
+    color: rgb(64, 30, 0);
+    margin: 20px 0 20px 30px;
+    padding: 10px;
+    line-height: 2;
+}
+
+body {
+    background-color: rgb(255, 234, 238);
+   
+}
+
